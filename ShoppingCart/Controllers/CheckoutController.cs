@@ -6,7 +6,7 @@ using System.Web.Mvc;
 using ShoppingCartApp.DAL;
 using ShoppingCartApp.Models;
 
-namespace MvcAffableBean.Controllers
+namespace ShoppingCartApp.Controllers
 {
 
     //[Authorize]
